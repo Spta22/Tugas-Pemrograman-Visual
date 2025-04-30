@@ -1,0 +1,284 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SEPTAASIKK\\source\\repos\\RentalPS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|c:\\users\\septaasikk\\source\\repos\\rentalps\\rentalps\\fr_daftarbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|solutionrelative:rentalps\\fr_daftarbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|c:\\users\\septaasikk\\source\\repos\\rentalps\\rentalps\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|solutionrelative:rentalps\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|c:\\users\\septaasikk\\source\\repos\\rentalps\\rentalps\\fr_daftarbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|solutionrelative:rentalps\\fr_daftarbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|C:\\Users\\SEPTAASIKK\\source\\repos\\RentalPS\\rentalps\\fr_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|solutionrelative:rentalps\\fr_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|c:\\users\\septaasikk\\source\\repos\\rentalps\\rentalps\\fr_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|solutionrelative:rentalps\\fr_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|c:\\users\\septaasikk\\source\\repos\\rentalps\\rentalps\\fr_buatakun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|solutionrelative:rentalps\\fr_buatakun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|c:\\users\\septaasikk\\source\\repos\\rentalps\\rentalps\\fr_booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|solutionrelative:rentalps\\fr_booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|C:\\Users\\SEPTAASIKK\\source\\repos\\RentalPS\\rentalps\\fr_booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|solutionrelative:rentalps\\fr_booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|c:\\users\\septaasikk\\source\\repos\\rentalps\\rentalps\\fr_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|solutionrelative:rentalps\\fr_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|c:\\users\\septaasikk\\source\\repos\\rentalps\\rentalps\\fr_daftarharga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|solutionrelative:rentalps\\fr_daftarharga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|C:\\Users\\SEPTAASIKK\\source\\repos\\RentalPS\\rentalps\\fr_daftarharga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|solutionrelative:rentalps\\fr_daftarharga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|C:\\Users\\SEPTAASIKK\\source\\repos\\RentalPS\\rentalps\\fr_buatakun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|solutionrelative:rentalps\\fr_buatakun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|c:\\users\\septaasikk\\source\\repos\\rentalps\\rentalps\\fr_buatakun.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|solutionrelative:rentalps\\fr_buatakun.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|c:\\users\\septaasikk\\source\\repos\\rentalps\\rentalps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|solutionrelative:rentalps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|C:\\Users\\SEPTAASIKK\\source\\repos\\RentalPS\\rentalps\\fr_kontakwa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|solutionrelative:rentalps\\fr_kontakwa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|C:\\Users\\SEPTAASIKK\\source\\repos\\RentalPS\\rentalps\\fr_promo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|solutionrelative:rentalps\\fr_promo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FR_Login.cs",
+              "DocumentMoniker": "C:\\Users\\SEPTAASIKK\\source\\repos\\RentalPS\\RentalPS\\FR_Login.cs",
+              "RelativeDocumentMoniker": "RentalPS\\FR_Login.cs",
+              "ToolTip": "C:\\Users\\SEPTAASIKK\\source\\repos\\RentalPS\\RentalPS\\FR_Login.cs",
+              "RelativeToolTip": "RentalPS\\FR_Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T02:22:10.094Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FR_Buatakun.cs",
+              "DocumentMoniker": "C:\\Users\\SEPTAASIKK\\source\\repos\\RentalPS\\RentalPS\\FR_Buatakun.cs",
+              "RelativeDocumentMoniker": "RentalPS\\FR_Buatakun.cs",
+              "ToolTip": "C:\\Users\\SEPTAASIKK\\source\\repos\\RentalPS\\RentalPS\\FR_Buatakun.cs",
+              "RelativeToolTip": "RentalPS\\FR_Buatakun.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T02:18:47.269Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FR_Daftarbooking.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SEPTAASIKK\\source\\repos\\RentalPS\\RentalPS\\FR_Daftarbooking.cs",
+              "RelativeDocumentMoniker": "RentalPS\\FR_Daftarbooking.cs",
+              "ToolTip": "C:\\Users\\SEPTAASIKK\\source\\repos\\RentalPS\\RentalPS\\FR_Daftarbooking.cs [Design]",
+              "RelativeToolTip": "RentalPS\\FR_Daftarbooking.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T04:34:56.856Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FR_Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\SEPTAASIKK\\source\\repos\\RentalPS\\RentalPS\\FR_Dashboard.cs",
+              "RelativeDocumentMoniker": "RentalPS\\FR_Dashboard.cs",
+              "ToolTip": "C:\\Users\\SEPTAASIKK\\source\\repos\\RentalPS\\RentalPS\\FR_Dashboard.cs",
+              "RelativeToolTip": "RentalPS\\FR_Dashboard.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAADgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T04:09:05.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FR_Daftarbooking.cs",
+              "DocumentMoniker": "C:\\Users\\SEPTAASIKK\\source\\repos\\RentalPS\\RentalPS\\FR_Daftarbooking.cs",
+              "RelativeDocumentMoniker": "RentalPS\\FR_Daftarbooking.cs",
+              "ToolTip": "C:\\Users\\SEPTAASIKK\\source\\repos\\RentalPS\\RentalPS\\FR_Daftarbooking.cs",
+              "RelativeToolTip": "RentalPS\\FR_Daftarbooking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T04:46:19.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Koneksi.cs",
+              "DocumentMoniker": "C:\\Users\\SEPTAASIKK\\source\\repos\\RentalPS\\RentalPS\\Koneksi.cs",
+              "RelativeDocumentMoniker": "RentalPS\\Koneksi.cs",
+              "ToolTip": "C:\\Users\\SEPTAASIKK\\source\\repos\\RentalPS\\RentalPS\\Koneksi.cs",
+              "RelativeToolTip": "RentalPS\\Koneksi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T16:19:16.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FR_Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SEPTAASIKK\\source\\repos\\RentalPS\\RentalPS\\FR_Dashboard.cs",
+              "RelativeDocumentMoniker": "RentalPS\\FR_Dashboard.cs",
+              "ToolTip": "C:\\Users\\SEPTAASIKK\\source\\repos\\RentalPS\\RentalPS\\FR_Dashboard.cs [Design]",
+              "RelativeToolTip": "RentalPS\\FR_Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T14:26:54.007Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FR_Buatakun.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SEPTAASIKK\\source\\repos\\RentalPS\\RentalPS\\FR_Buatakun.cs",
+              "RelativeDocumentMoniker": "RentalPS\\FR_Buatakun.cs",
+              "ToolTip": "C:\\Users\\SEPTAASIKK\\source\\repos\\RentalPS\\RentalPS\\FR_Buatakun.cs [Design]",
+              "RelativeToolTip": "RentalPS\\FR_Buatakun.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T14:24:00.988Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FR_Booking.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SEPTAASIKK\\source\\repos\\RentalPS\\RentalPS\\FR_Booking.cs",
+              "RelativeDocumentMoniker": "RentalPS\\FR_Booking.cs",
+              "ToolTip": "C:\\Users\\SEPTAASIKK\\source\\repos\\RentalPS\\RentalPS\\FR_Booking.cs [Design]",
+              "RelativeToolTip": "RentalPS\\FR_Booking.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T14:36:58.67Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FR_Booking.cs",
+              "DocumentMoniker": "C:\\Users\\SEPTAASIKK\\source\\repos\\RentalPS\\RentalPS\\FR_Booking.cs",
+              "RelativeDocumentMoniker": "RentalPS\\FR_Booking.cs",
+              "ToolTip": "C:\\Users\\SEPTAASIKK\\source\\repos\\RentalPS\\RentalPS\\FR_Booking.cs",
+              "RelativeToolTip": "RentalPS\\FR_Booking.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwC8AAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T04:00:27.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FR_Daftarharga.cs",
+              "DocumentMoniker": "C:\\Users\\SEPTAASIKK\\source\\repos\\RentalPS\\RentalPS\\FR_Daftarharga.cs",
+              "RelativeDocumentMoniker": "RentalPS\\FR_Daftarharga.cs",
+              "ToolTip": "C:\\Users\\SEPTAASIKK\\source\\repos\\RentalPS\\RentalPS\\FR_Daftarharga.cs",
+              "RelativeToolTip": "RentalPS\\FR_Daftarharga.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIA4wBcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T04:10:30.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FR_Daftarharga.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SEPTAASIKK\\source\\repos\\RentalPS\\RentalPS\\FR_Daftarharga.cs",
+              "RelativeDocumentMoniker": "RentalPS\\FR_Daftarharga.cs",
+              "ToolTip": "C:\\Users\\SEPTAASIKK\\source\\repos\\RentalPS\\RentalPS\\FR_Daftarharga.cs [Design]",
+              "RelativeToolTip": "RentalPS\\FR_Daftarharga.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T15:22:03.401Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SEPTAASIKK\\source\\repos\\RentalPS\\RentalPS\\Program.cs",
+              "RelativeDocumentMoniker": "RentalPS\\Program.cs",
+              "ToolTip": "C:\\Users\\SEPTAASIKK\\source\\repos\\RentalPS\\RentalPS\\Program.cs",
+              "RelativeToolTip": "RentalPS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T07:04:04.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FR_Buatakun.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\SEPTAASIKK\\source\\repos\\RentalPS\\RentalPS\\FR_Buatakun.Designer.cs",
+              "RelativeDocumentMoniker": "RentalPS\\FR_Buatakun.Designer.cs",
+              "ToolTip": "C:\\Users\\SEPTAASIKK\\source\\repos\\RentalPS\\RentalPS\\FR_Buatakun.Designer.cs",
+              "RelativeToolTip": "RentalPS\\FR_Buatakun.Designer.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAowGUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T02:45:22.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FR_Kontakwa.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SEPTAASIKK\\source\\repos\\RentalPS\\RentalPS\\FR_Kontakwa.cs",
+              "RelativeDocumentMoniker": "RentalPS\\FR_Kontakwa.cs",
+              "ToolTip": "C:\\Users\\SEPTAASIKK\\source\\repos\\RentalPS\\RentalPS\\FR_Kontakwa.cs [Design]",
+              "RelativeToolTip": "RentalPS\\FR_Kontakwa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T15:08:42.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FR_Promo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SEPTAASIKK\\source\\repos\\RentalPS\\RentalPS\\FR_Promo.cs",
+              "RelativeDocumentMoniker": "RentalPS\\FR_Promo.cs",
+              "ToolTip": "C:\\Users\\SEPTAASIKK\\source\\repos\\RentalPS\\RentalPS\\FR_Promo.cs [Design]",
+              "RelativeToolTip": "RentalPS\\FR_Promo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T14:56:59.809Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

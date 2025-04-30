@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FR_Booking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FR_Buatakun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FR_Daftarbooking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FR_Daftarharga.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FR_Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FR_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FR_Kontakwa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FR_Promo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
