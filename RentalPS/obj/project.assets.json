@@ -1615,11 +1615,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SEPTAASIKK\\source\\repos\\RentalPS\\RentalPS\\RentalPS.csproj",
+      "projectUniqueName": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPS\\RentalPS\\RentalPS.csproj",
       "projectName": "RentalPS",
-      "projectPath": "C:\\Users\\SEPTAASIKK\\source\\repos\\RentalPS\\RentalPS\\RentalPS.csproj",
+      "projectPath": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPS\\RentalPS\\RentalPS.csproj",
       "packagesPath": "C:\\Users\\SEPTAASIKK\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SEPTAASIKK\\source\\repos\\RentalPS\\RentalPS\\obj\\",
+      "outputPath": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPS\\RentalPS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

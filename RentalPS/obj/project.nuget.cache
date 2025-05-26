@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fugHlnB0iJs=",
+  "dgSpecHash": "EzMHgcZ+A58=",
   "success": true,
-  "projectFilePath": "C:\\Users\\SEPTAASIKK\\source\\repos\\RentalPS\\RentalPS\\RentalPS.csproj",
+  "projectFilePath": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPS\\RentalPS\\RentalPS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SEPTAASIKK\\.nuget\\packages\\bouncycastle.cryptography\\2.5.1\\bouncycastle.cryptography.2.5.1.nupkg.sha512",
     "C:\\Users\\SEPTAASIKK\\.nuget\\packages\\google.protobuf\\3.30.0\\google.protobuf.3.30.0.nupkg.sha512",
