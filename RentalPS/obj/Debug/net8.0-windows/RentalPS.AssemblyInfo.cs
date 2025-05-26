@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RentalPS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f048d8acd47a4020008a68639b87ff5e16274802")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5caa79342df61e8cc00754fd72101576c92ac46")]
 [assembly: System.Reflection.AssemblyProductAttribute("RentalPS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RentalPS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

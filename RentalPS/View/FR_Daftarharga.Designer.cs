@@ -43,8 +43,8 @@
             label11 = new Label();
             label12 = new Label();
             label13 = new Label();
-            pictureBox1 = new PictureBox();
-            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
+            pictureBox2 = new PictureBox();
+            ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
             SuspendLayout();
             // 
             // label1
@@ -105,7 +105,7 @@
             label4.BorderStyle = BorderStyle.Fixed3D;
             label4.FlatStyle = FlatStyle.Flat;
             label4.Font = new Font("Segoe UI", 15F);
-            label4.Location = new Point(27, 75);
+            label4.Location = new Point(92, 75);
             label4.Name = "label4";
             label4.Size = new Size(122, 30);
             label4.TabIndex = 34;
@@ -118,7 +118,7 @@
             label5.BorderStyle = BorderStyle.Fixed3D;
             label5.FlatStyle = FlatStyle.Flat;
             label5.Font = new Font("Segoe UI", 15F);
-            label5.Location = new Point(27, 115);
+            label5.Location = new Point(92, 115);
             label5.Name = "label5";
             label5.Size = new Size(122, 30);
             label5.TabIndex = 35;
@@ -131,7 +131,7 @@
             label6.BorderStyle = BorderStyle.Fixed3D;
             label6.FlatStyle = FlatStyle.Flat;
             label6.Font = new Font("Segoe UI", 15F);
-            label6.Location = new Point(27, 155);
+            label6.Location = new Point(83, 155);
             label6.Name = "label6";
             label6.Size = new Size(133, 30);
             label6.TabIndex = 36;
@@ -144,7 +144,7 @@
             label7.BorderStyle = BorderStyle.Fixed3D;
             label7.FlatStyle = FlatStyle.Flat;
             label7.Font = new Font("Segoe UI", 15F);
-            label7.Location = new Point(569, 75);
+            label7.Location = new Point(518, 75);
             label7.Name = "label7";
             label7.Size = new Size(122, 30);
             label7.TabIndex = 37;
@@ -157,7 +157,7 @@
             label8.BorderStyle = BorderStyle.Fixed3D;
             label8.FlatStyle = FlatStyle.Flat;
             label8.Font = new Font("Segoe UI", 15F);
-            label8.Location = new Point(27, 195);
+            label8.Location = new Point(81, 195);
             label8.Name = "label8";
             label8.Size = new Size(133, 30);
             label8.TabIndex = 38;
@@ -170,7 +170,7 @@
             label9.BorderStyle = BorderStyle.Fixed3D;
             label9.FlatStyle = FlatStyle.Flat;
             label9.Font = new Font("Segoe UI", 15F);
-            label9.Location = new Point(27, 236);
+            label9.Location = new Point(81, 233);
             label9.Name = "label9";
             label9.Size = new Size(133, 30);
             label9.TabIndex = 39;
@@ -183,7 +183,7 @@
             label10.BorderStyle = BorderStyle.Fixed3D;
             label10.FlatStyle = FlatStyle.Flat;
             label10.Font = new Font("Segoe UI", 15F);
-            label10.Location = new Point(569, 155);
+            label10.Location = new Point(518, 155);
             label10.Name = "label10";
             label10.Size = new Size(133, 30);
             label10.TabIndex = 40;
@@ -196,7 +196,7 @@
             label11.BorderStyle = BorderStyle.Fixed3D;
             label11.FlatStyle = FlatStyle.Flat;
             label11.Font = new Font("Segoe UI", 15F);
-            label11.Location = new Point(571, 195);
+            label11.Location = new Point(518, 195);
             label11.Name = "label11";
             label11.Size = new Size(133, 30);
             label11.TabIndex = 41;
@@ -209,7 +209,7 @@
             label12.BorderStyle = BorderStyle.Fixed3D;
             label12.FlatStyle = FlatStyle.Flat;
             label12.Font = new Font("Segoe UI", 15F);
-            label12.Location = new Point(569, 231);
+            label12.Location = new Point(518, 231);
             label12.Name = "label12";
             label12.Size = new Size(133, 30);
             label12.TabIndex = 42;
@@ -222,28 +222,29 @@
             label13.BorderStyle = BorderStyle.Fixed3D;
             label13.FlatStyle = FlatStyle.Flat;
             label13.Font = new Font("Segoe UI", 15F);
-            label13.Location = new Point(569, 115);
+            label13.Location = new Point(518, 115);
             label13.Name = "label13";
             label13.Size = new Size(133, 30);
             label13.TabIndex = 43;
             label13.Text = "2 Jam : 13000";
             // 
-            // pictureBox1
+            // pictureBox2
             // 
-            pictureBox1.BackColor = Color.Transparent;
-            pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
-            pictureBox1.Location = new Point(-2, 0);
-            pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(717, 296);
-            pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
-            pictureBox1.TabIndex = 44;
-            pictureBox1.TabStop = false;
+            pictureBox2.Image = (Image)resources.GetObject("pictureBox2.Image");
+            pictureBox2.Location = new Point(271, 89);
+            pictureBox2.Name = "pictureBox2";
+            pictureBox2.Size = new Size(201, 122);
+            pictureBox2.SizeMode = PictureBoxSizeMode.CenterImage;
+            pictureBox2.TabIndex = 44;
+            pictureBox2.TabStop = false;
             // 
             // FR_Daftarharga
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackColor = Color.Gray;
             ClientSize = new Size(716, 300);
+            Controls.Add(pictureBox2);
             Controls.Add(label13);
             Controls.Add(label12);
             Controls.Add(label11);
@@ -258,10 +259,9 @@
             Controls.Add(button1);
             Controls.Add(label2);
             Controls.Add(label1);
-            Controls.Add(pictureBox1);
             Name = "FR_Daftarharga";
             Text = "daftarharga";
-            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -284,5 +284,6 @@
         private Label label12;
         private Label label13;
         private PictureBox pictureBox1;
+        private PictureBox pictureBox2;
     }
 }

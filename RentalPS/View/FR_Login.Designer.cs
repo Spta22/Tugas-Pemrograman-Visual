@@ -124,7 +124,7 @@
             // pictureLogin
             // 
             pictureLogin.Image = Properties.Resources.WhatsApp_Image_2025_04_25_at_17_37_56;
-            pictureLogin.Location = new Point(0, 1);
+            pictureLogin.Location = new Point(2, 2);
             pictureLogin.Name = "pictureLogin";
             pictureLogin.Size = new Size(730, 450);
             pictureLogin.SizeMode = PictureBoxSizeMode.StretchImage;
@@ -145,6 +145,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackColor = Color.Gray;
             ClientSize = new Size(731, 450);
             Controls.Add(label4);
             Controls.Add(label3);

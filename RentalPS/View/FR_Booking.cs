@@ -49,15 +49,15 @@ namespace RentalPS
         private void kembaliData()
         {
             FR_Daftarbooking FR_Daftarbooking = new FR_Daftarbooking(); // Buat form login baru
-            FR_Daftarbooking.Show(); 
-            this.Hide(); 
+            FR_Daftarbooking.Show();
+            this.Hide();
         }
 
         private void kembaliDashboard()
         {
-            FR_Dashboard FR_Dashboard = new FR_Dashboard(); 
-            FR_Dashboard.Show(); 
-            this.Hide(); 
+            FR_Dashboard FR_Dashboard = new FR_Dashboard();
+            FR_Dashboard.Show();
+            this.Hide();
         }
 
         private void btnkembali_Click(object sender, EventArgs e)
@@ -119,6 +119,11 @@ namespace RentalPS
             {
                 MessageBox.Show("Gagal memperbarui booking. Silakan coba lagi.");
             }
+        }
+
+        private void FR_Booking_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

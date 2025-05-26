@@ -37,7 +37,9 @@
             button5 = new Button();
             button6 = new Button();
             pictureBox1 = new PictureBox();
+            pictureBox2 = new PictureBox();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
             SuspendLayout();
             // 
             // button1
@@ -68,7 +70,6 @@
             button2.TabIndex = 1;
             button2.Text = "Daftar Harga";
             button2.UseVisualStyleBackColor = false;
-            button2.UseWaitCursor = true;
             button2.Click += button2_Click;
             // 
             // button3
@@ -84,7 +85,6 @@
             button3.TabIndex = 2;
             button3.Text = " Kontak WA Admin";
             button3.UseVisualStyleBackColor = false;
-            button3.UseWaitCursor = true;
             button3.Click += button3_Click;
             // 
             // button4
@@ -100,7 +100,6 @@
             button4.TabIndex = 3;
             button4.Text = "Kembali";
             button4.UseVisualStyleBackColor = false;
-            button4.UseWaitCursor = true;
             button4.Click += button4_Click;
             // 
             // label1
@@ -127,7 +126,6 @@
             button5.TabIndex = 5;
             button5.Text = "Promo";
             button5.UseVisualStyleBackColor = false;
-            button5.UseWaitCursor = true;
             button5.Click += button5_Click;
             // 
             // button6
@@ -143,17 +141,27 @@
             button6.TabIndex = 6;
             button6.Text = "Data Booking";
             button6.UseVisualStyleBackColor = false;
-            button6.UseWaitCursor = true;
             button6.Click += button6_Click;
             // 
             // pictureBox1
             // 
-            pictureBox1.Location = new Point(0, -1);
+            pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
+            pictureBox1.Location = new Point(246, 48);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(712, 321);
+            pictureBox1.Size = new Size(247, 213);
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox1.TabIndex = 7;
             pictureBox1.TabStop = false;
+            // 
+            // pictureBox2
+            // 
+            pictureBox2.Image = (Image)resources.GetObject("pictureBox2.Image");
+            pictureBox2.Location = new Point(302, 229);
+            pictureBox2.Name = "pictureBox2";
+            pictureBox2.Size = new Size(144, 90);
+            pictureBox2.SizeMode = PictureBoxSizeMode.CenterImage;
+            pictureBox2.TabIndex = 8;
+            pictureBox2.TabStop = false;
             // 
             // FR_Dashboard
             // 
@@ -170,10 +178,12 @@
             Controls.Add(button6);
             Controls.Add(button1);
             Controls.Add(pictureBox1);
+            Controls.Add(pictureBox2);
             Name = "FR_Dashboard";
             RightToLeftLayout = true;
             Text = "Dashboard";
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -188,5 +198,6 @@
         private Button button5;
         private Button button6;
         private PictureBox pictureBox1;
+        private PictureBox pictureBox2;
     }
 }

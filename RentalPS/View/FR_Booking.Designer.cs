@@ -202,10 +202,11 @@
             // 
             // pictureBox1
             // 
+            pictureBox1.BackColor = Color.Gray;
             pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
-            pictureBox1.Location = new Point(2, 0);
+            pictureBox1.Location = new Point(252, 35);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(731, 295);
+            pictureBox1.Size = new Size(214, 201);
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox1.TabIndex = 25;
             pictureBox1.TabStop = false;
@@ -214,7 +215,8 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(732, 294);
+            BackColor = Color.Gray;
+            ClientSize = new Size(697, 272);
             Controls.Add(button2);
             Controls.Add(jamSelesai);
             Controls.Add(jamMulai);
@@ -233,6 +235,7 @@
             Controls.Add(pictureBox1);
             Name = "FR_Booking";
             Text = "booking";
+            Load += FR_Booking_Load;
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
             PerformLayout();
