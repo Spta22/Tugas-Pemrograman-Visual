@@ -34,10 +34,8 @@
             label2 = new Label();
             label1 = new Label();
             txtUsername = new TextBox();
-            label4 = new Label();
             txtNama = new TextBox();
             label5 = new Label();
-            cmboRole = new ComboBox();
             btndaftar = new Button();
             btnkembali = new Button();
             pictureBox1 = new PictureBox();
@@ -92,20 +90,9 @@
             txtUsername.Size = new Size(241, 27);
             txtUsername.TabIndex = 7;
             // 
-            // label4
-            // 
-            label4.AutoSize = true;
-            label4.BackColor = Color.Silver;
-            label4.Font = new Font("Segoe UI", 13F);
-            label4.Location = new Point(182, 162);
-            label4.Name = "label4";
-            label4.Size = new Size(46, 25);
-            label4.TabIndex = 15;
-            label4.Text = "Role";
-            // 
             // txtNama
             // 
-            txtNama.Location = new Point(291, 193);
+            txtNama.Location = new Point(291, 175);
             txtNama.Multiline = true;
             txtNama.Name = "txtNama";
             txtNama.Size = new Size(241, 25);
@@ -116,20 +103,11 @@
             label5.AutoSize = true;
             label5.BackColor = Color.Silver;
             label5.Font = new Font("Segoe UI", 13F);
-            label5.Location = new Point(182, 193);
+            label5.Location = new Point(182, 175);
             label5.Name = "label5";
             label5.Size = new Size(59, 25);
             label5.TabIndex = 17;
             label5.Text = "Nama";
-            // 
-            // cmboRole
-            // 
-            cmboRole.FormattingEnabled = true;
-            cmboRole.Items.AddRange(new object[] { "Admin", "Users" });
-            cmboRole.Location = new Point(291, 164);
-            cmboRole.Name = "cmboRole";
-            cmboRole.Size = new Size(121, 23);
-            cmboRole.TabIndex = 18;
             // 
             // btndaftar
             // 
@@ -178,10 +156,8 @@
             ClientSize = new Size(760, 327);
             Controls.Add(btnkembali);
             Controls.Add(btndaftar);
-            Controls.Add(cmboRole);
             Controls.Add(label5);
             Controls.Add(txtNama);
-            Controls.Add(label4);
             Controls.Add(label3);
             Controls.Add(txtPassword);
             Controls.Add(label2);
@@ -202,10 +178,8 @@
         private Label label1;
         private TextBox txtUsername;
         private TextBox textBox4;
-        private Label label4;
         private TextBox txtNama;
         private Label label5;
-        private ComboBox cmboRole;
         private Button btndaftar;
         private Button btnkembali;
         private PictureBox pictureBox1;

@@ -25,5 +25,8 @@
     <Compile Update="View\FR_Promo.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="View\FR_Splash.cs">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 </Project>

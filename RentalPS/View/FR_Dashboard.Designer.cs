@@ -64,7 +64,7 @@
             button2.FlatStyle = FlatStyle.Flat;
             button2.Image = (Image)resources.GetObject("button2.Image");
             button2.ImageAlign = ContentAlignment.MiddleLeft;
-            button2.Location = new Point(43, 171);
+            button2.Location = new Point(43, 132);
             button2.Name = "button2";
             button2.Size = new Size(127, 33);
             button2.TabIndex = 1;
@@ -79,7 +79,7 @@
             button3.FlatStyle = FlatStyle.Flat;
             button3.Image = (Image)resources.GetObject("button3.Image");
             button3.ImageAlign = ContentAlignment.MiddleLeft;
-            button3.Location = new Point(43, 210);
+            button3.Location = new Point(43, 171);
             button3.Name = "button3";
             button3.Size = new Size(152, 33);
             button3.TabIndex = 2;
@@ -94,7 +94,7 @@
             button4.FlatStyle = FlatStyle.Flat;
             button4.Image = (Image)resources.GetObject("button4.Image");
             button4.ImageAlign = ContentAlignment.MiddleLeft;
-            button4.Location = new Point(43, 249);
+            button4.Location = new Point(43, 210);
             button4.Name = "button4";
             button4.Size = new Size(108, 33);
             button4.TabIndex = 3;
@@ -106,7 +106,7 @@
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Impact", 25F);
-            label1.Location = new Point(284, 9);
+            label1.Location = new Point(269, 9);
             label1.Name = "label1";
             label1.Size = new Size(183, 42);
             label1.TabIndex = 4;
@@ -146,7 +146,7 @@
             // pictureBox1
             // 
             pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
-            pictureBox1.Location = new Point(246, 48);
+            pictureBox1.Location = new Point(238, 44);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(247, 213);
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
@@ -156,7 +156,7 @@
             // pictureBox2
             // 
             pictureBox2.Image = (Image)resources.GetObject("pictureBox2.Image");
-            pictureBox2.Location = new Point(302, 229);
+            pictureBox2.Location = new Point(284, 229);
             pictureBox2.Name = "pictureBox2";
             pictureBox2.Size = new Size(144, 90);
             pictureBox2.SizeMode = PictureBoxSizeMode.CenterImage;

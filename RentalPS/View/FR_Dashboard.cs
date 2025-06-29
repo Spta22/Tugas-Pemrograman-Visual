@@ -19,21 +19,22 @@ namespace RentalPS
 
         private void button1_Click(object sender, EventArgs e)
         {
-            FR_Booking FR_Booking = new FR_Booking(); // Buat instance dari form baru
+            FR_Booking FR_Booking = new FR_Booking(); 
             FR_Booking.Show();
             this.Hide();
         }
 
         private void button5_Click(object sender, EventArgs e)
         {
-            FR_Promo FR_Promo = new FR_Promo(); // Buat instance dari form baru
-            FR_Promo.Show();
+            //FR_Promo FR_Promo = new FR_Promo(); 
+            //FR_Promo.Show();
+            button5.Visible = false;
             this.Hide();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            FR_Daftarharga FR_Daftarharga = new FR_Daftarharga(); // Buat instance dari form baru
+            FR_Daftarharga FR_Daftarharga = new FR_Daftarharga(); 
             FR_Daftarharga.Show();
             this.Hide();
         }

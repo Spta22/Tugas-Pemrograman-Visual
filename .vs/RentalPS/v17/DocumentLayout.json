@@ -1,70 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPS\\",
+  "WorkspaceRootPath": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPIES\\RentalPS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|c:\\users\\septaasikk\\documents\\pemrograman visual smt 6\\rentalps\\rentalps\\fr_daftarbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|solutionrelative:rentalps\\fr_daftarbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|c:\\users\\septaasikk\\documents\\pemrograman visual smt 6\\rentalpies\\rentalps\\rentalps\\view\\fr_daftarbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|solutionrelative:rentalps\\view\\fr_daftarbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|c:\\users\\septaasikk\\documents\\pemrograman visual smt 6\\rentalps\\rentalps\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|solutionrelative:rentalps\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|c:\\users\\septaasikk\\documents\\pemrograman visual smt 6\\rentalpies\\rentalps\\rentalps\\model\\bookingmanajemenquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|solutionrelative:rentalps\\model\\bookingmanajemenquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPS\\rentalps\\fr_daftarbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|solutionrelative:rentalps\\fr_daftarbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|c:\\users\\septaasikk\\documents\\pemrograman visual smt 6\\rentalpies\\rentalps\\rentalps\\view\\fr_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|solutionrelative:rentalps\\view\\fr_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPS\\rentalps\\fr_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|solutionrelative:rentalps\\fr_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|c:\\users\\septaasikk\\documents\\pemrograman visual smt 6\\rentalpies\\rentalps\\rentalps\\view\\fr_kontakwa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|solutionrelative:rentalps\\view\\fr_kontakwa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|c:\\users\\septaasikk\\documents\\pemrograman visual smt 6\\rentalps\\rentalps\\fr_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|solutionrelative:rentalps\\fr_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|c:\\users\\septaasikk\\documents\\pemrograman visual smt 6\\rentalpies\\rentalps\\rentalps\\view\\fr_daftarharga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|solutionrelative:rentalps\\view\\fr_daftarharga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|c:\\users\\septaasikk\\documents\\pemrograman visual smt 6\\rentalps\\rentalps\\fr_buatakun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|solutionrelative:rentalps\\fr_buatakun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|c:\\users\\septaasikk\\documents\\pemrograman visual smt 6\\rentalpies\\rentalps\\rentalps\\view\\fr_booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|solutionrelative:rentalps\\view\\fr_booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|c:\\users\\septaasikk\\documents\\pemrograman visual smt 6\\rentalps\\rentalps\\fr_booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|solutionrelative:rentalps\\fr_booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|c:\\users\\septaasikk\\documents\\pemrograman visual smt 6\\rentalpies\\rentalps\\rentalps\\controller\\daftarbookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|solutionrelative:rentalps\\controller\\daftarbookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPS\\rentalps\\fr_booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|solutionrelative:rentalps\\fr_booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|c:\\users\\septaasikk\\documents\\pemrograman visual smt 6\\rentalpies\\rentalps\\rentalps\\model\\usermanajemenquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|solutionrelative:rentalps\\model\\usermanajemenquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|c:\\users\\septaasikk\\documents\\pemrograman visual smt 6\\rentalps\\rentalps\\fr_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|solutionrelative:rentalps\\fr_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|c:\\users\\septaasikk\\documents\\pemrograman visual smt 6\\rentalpies\\rentalps\\rentalps\\view\\fr_buatakun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|solutionrelative:rentalps\\view\\fr_buatakun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|c:\\users\\septaasikk\\documents\\pemrograman visual smt 6\\rentalps\\rentalps\\fr_daftarharga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|solutionrelative:rentalps\\fr_daftarharga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|c:\\users\\septaasikk\\documents\\pemrograman visual smt 6\\rentalpies\\rentalps\\rentalps\\view\\fr_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|solutionrelative:rentalps\\view\\fr_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPS\\rentalps\\fr_daftarharga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|solutionrelative:rentalps\\fr_daftarharga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|c:\\users\\septaasikk\\documents\\pemrograman visual smt 6\\rentalpies\\rentalps\\rentalps\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|solutionrelative:rentalps\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPS\\rentalps\\fr_buatakun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|solutionrelative:rentalps\\fr_buatakun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|c:\\users\\septaasikk\\documents\\pemrograman visual smt 6\\rentalps\\rentalps\\fr_buatakun.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|solutionrelative:rentalps\\fr_buatakun.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|c:\\users\\septaasikk\\documents\\pemrograman visual smt 6\\rentalps\\rentalps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|solutionrelative:rentalps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPS\\rentalps\\fr_kontakwa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|solutionrelative:rentalps\\fr_kontakwa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPS\\rentalps\\fr_promo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|solutionrelative:rentalps\\fr_promo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|c:\\users\\septaasikk\\documents\\pemrograman visual smt 6\\rentalpies\\rentalps\\rentalps\\controller\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1550DE-1D12-4727-892B-4BDE473FE0BB}|RentalPS\\RentalPS.csproj|solutionrelative:rentalps\\controller\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,199 +58,168 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "FR_Login.cs",
-              "DocumentMoniker": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPS\\RentalPS\\FR_Login.cs",
-              "RelativeDocumentMoniker": "RentalPS\\FR_Login.cs",
-              "ToolTip": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPS\\RentalPS\\FR_Login.cs",
-              "RelativeToolTip": "RentalPS\\FR_Login.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPIES\\RentalPS\\RentalPS\\Controller\\UserController.cs",
+              "RelativeDocumentMoniker": "RentalPS\\Controller\\UserController.cs",
+              "ToolTip": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPIES\\RentalPS\\RentalPS\\Controller\\UserController.cs",
+              "RelativeToolTip": "RentalPS\\Controller\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T02:22:10.094Z",
-              "IsPinned": true
+              "WhenOpened": "2025-05-26T05:55:44.709Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FR_Buatakun.cs",
-              "DocumentMoniker": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPS\\RentalPS\\FR_Buatakun.cs",
-              "RelativeDocumentMoniker": "RentalPS\\FR_Buatakun.cs",
-              "ToolTip": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPS\\RentalPS\\FR_Buatakun.cs",
-              "RelativeToolTip": "RentalPS\\FR_Buatakun.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "UserManajemenQuery.cs",
+              "DocumentMoniker": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPIES\\RentalPS\\RentalPS\\Model\\UserManajemenQuery.cs",
+              "RelativeDocumentMoniker": "RentalPS\\Model\\UserManajemenQuery.cs",
+              "ToolTip": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPIES\\RentalPS\\RentalPS\\Model\\UserManajemenQuery.cs",
+              "RelativeToolTip": "RentalPS\\Model\\UserManajemenQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T02:18:47.269Z",
+              "WhenOpened": "2025-05-26T05:56:13.932Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FR_Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPIES\\RentalPS\\RentalPS\\View\\FR_Login.cs",
+              "RelativeDocumentMoniker": "RentalPS\\View\\FR_Login.cs",
+              "ToolTip": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPIES\\RentalPS\\RentalPS\\View\\FR_Login.cs [Design]",
+              "RelativeToolTip": "RentalPS\\View\\FR_Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T04:16:22.394Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FR_Buatakun.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPIES\\RentalPS\\RentalPS\\View\\FR_Buatakun.cs",
+              "RelativeDocumentMoniker": "RentalPS\\View\\FR_Buatakun.cs",
+              "ToolTip": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPIES\\RentalPS\\RentalPS\\View\\FR_Buatakun.cs [Design]",
+              "RelativeToolTip": "RentalPS\\View\\FR_Buatakun.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T04:16:33.416Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPIES\\RentalPS\\RentalPS\\Controller\\BookingController.cs",
+              "RelativeDocumentMoniker": "RentalPS\\Controller\\BookingController.cs",
+              "ToolTip": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPIES\\RentalPS\\RentalPS\\Controller\\BookingController.cs",
+              "RelativeToolTip": "RentalPS\\Controller\\BookingController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T05:55:14.212Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookingManajemenQuery.cs",
+              "DocumentMoniker": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPIES\\RentalPS\\RentalPS\\Model\\BookingManajemenQuery.cs",
+              "RelativeDocumentMoniker": "RentalPS\\Model\\BookingManajemenQuery.cs",
+              "ToolTip": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPIES\\RentalPS\\RentalPS\\Model\\BookingManajemenQuery.cs",
+              "RelativeToolTip": "RentalPS\\Model\\BookingManajemenQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T05:56:11.761Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DaftarBookingController.cs",
+              "DocumentMoniker": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPIES\\RentalPS\\RentalPS\\Controller\\DaftarBookingController.cs",
+              "RelativeDocumentMoniker": "RentalPS\\Controller\\DaftarBookingController.cs",
+              "ToolTip": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPIES\\RentalPS\\RentalPS\\Controller\\DaftarBookingController.cs",
+              "RelativeToolTip": "RentalPS\\Controller\\DaftarBookingController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T05:55:36.761Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FR_Daftarbooking.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPS\\RentalPS\\FR_Daftarbooking.cs",
-              "RelativeDocumentMoniker": "RentalPS\\FR_Daftarbooking.cs",
-              "ToolTip": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPS\\RentalPS\\FR_Daftarbooking.cs [Design]",
-              "RelativeToolTip": "RentalPS\\FR_Daftarbooking.cs [Design]",
+              "Title": "FR_Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPIES\\RentalPS\\RentalPS\\View\\FR_Dashboard.cs",
+              "RelativeDocumentMoniker": "RentalPS\\View\\FR_Dashboard.cs",
+              "ToolTip": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPIES\\RentalPS\\RentalPS\\View\\FR_Dashboard.cs [Design]",
+              "RelativeToolTip": "RentalPS\\View\\FR_Dashboard.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T04:34:56.856Z",
+              "WhenOpened": "2025-06-29T04:24:17.957Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FR_Daftarbooking.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPIES\\RentalPS\\RentalPS\\View\\FR_Daftarbooking.cs",
+              "RelativeDocumentMoniker": "RentalPS\\View\\FR_Daftarbooking.cs",
+              "ToolTip": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPIES\\RentalPS\\RentalPS\\View\\FR_Daftarbooking.cs [Design]",
+              "RelativeToolTip": "RentalPS\\View\\FR_Daftarbooking.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T04:35:49.312Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FR_Booking.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPIES\\RentalPS\\RentalPS\\View\\FR_Booking.cs",
+              "RelativeDocumentMoniker": "RentalPS\\View\\FR_Booking.cs",
+              "ToolTip": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPIES\\RentalPS\\RentalPS\\View\\FR_Booking.cs [Design]",
+              "RelativeToolTip": "RentalPS\\View\\FR_Booking.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T09:53:55.67Z",
+              "IsPinned": true,
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "FR_Dashboard.cs",
-              "DocumentMoniker": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPS\\RentalPS\\FR_Dashboard.cs",
-              "RelativeDocumentMoniker": "RentalPS\\FR_Dashboard.cs",
-              "ToolTip": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPS\\RentalPS\\FR_Dashboard.cs",
-              "RelativeToolTip": "RentalPS\\FR_Dashboard.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAAADgAAAAMAAAAAAAAAA==",
+              "Title": "FR_Daftarharga.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPIES\\RentalPS\\RentalPS\\View\\FR_Daftarharga.cs",
+              "RelativeDocumentMoniker": "RentalPS\\View\\FR_Daftarharga.cs",
+              "ToolTip": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPIES\\RentalPS\\RentalPS\\View\\FR_Daftarharga.cs [Design]",
+              "RelativeToolTip": "RentalPS\\View\\FR_Daftarharga.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T04:09:05.658Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FR_Daftarbooking.cs",
-              "DocumentMoniker": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPS\\RentalPS\\FR_Daftarbooking.cs",
-              "RelativeDocumentMoniker": "RentalPS\\FR_Daftarbooking.cs",
-              "ToolTip": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPS\\RentalPS\\FR_Daftarbooking.cs",
-              "RelativeToolTip": "RentalPS\\FR_Daftarbooking.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T04:46:19.051Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Koneksi.cs",
-              "DocumentMoniker": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPS\\RentalPS\\Koneksi.cs",
-              "RelativeDocumentMoniker": "RentalPS\\Koneksi.cs",
-              "ToolTip": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPS\\RentalPS\\Koneksi.cs",
-              "RelativeToolTip": "RentalPS\\Koneksi.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T16:19:16.064Z"
+              "WhenOpened": "2025-06-29T04:32:19.577Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "FR_Dashboard.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPS\\RentalPS\\FR_Dashboard.cs",
-              "RelativeDocumentMoniker": "RentalPS\\FR_Dashboard.cs",
-              "ToolTip": "C:\\Users\\SEPTAASIKK\\source\\repos\\RentalPS\\RentalPS\\FR_Dashboard.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\source\\repos\\RentalPS\\RentalPS\\FR_Dashboard.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T14:26:54.007Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "FR_Buatakun.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPS\\RentalPS\\FR_Buatakun.cs",
-              "RelativeDocumentMoniker": "RentalPS\\FR_Buatakun.cs",
-              "ToolTip": "C:\\Users\\SEPTAASIKK\\source\\repos\\RentalPS\\RentalPS\\FR_Buatakun.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\source\\repos\\RentalPS\\RentalPS\\FR_Buatakun.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T14:24:00.988Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FR_Booking.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPS\\RentalPS\\FR_Booking.cs",
-              "RelativeDocumentMoniker": "RentalPS\\FR_Booking.cs",
-              "ToolTip": "C:\\Users\\SEPTAASIKK\\source\\repos\\RentalPS\\RentalPS\\FR_Booking.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\source\\repos\\RentalPS\\RentalPS\\FR_Booking.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T14:36:58.67Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FR_Booking.cs",
-              "DocumentMoniker": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPS\\RentalPS\\FR_Booking.cs",
-              "RelativeDocumentMoniker": "RentalPS\\FR_Booking.cs",
-              "ToolTip": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPS\\RentalPS\\FR_Booking.cs",
-              "RelativeToolTip": "RentalPS\\FR_Booking.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAIwC8AAABfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T04:00:27.368Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FR_Daftarharga.cs",
-              "DocumentMoniker": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPS\\RentalPS\\FR_Daftarharga.cs",
-              "RelativeDocumentMoniker": "RentalPS\\FR_Daftarharga.cs",
-              "ToolTip": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPS\\RentalPS\\FR_Daftarharga.cs",
-              "RelativeToolTip": "RentalPS\\FR_Daftarharga.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAIA4wBcAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T04:10:30.632Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "FR_Daftarharga.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPS\\RentalPS\\FR_Daftarharga.cs",
-              "RelativeDocumentMoniker": "RentalPS\\FR_Daftarharga.cs",
-              "ToolTip": "C:\\Users\\SEPTAASIKK\\source\\repos\\RentalPS\\RentalPS\\FR_Daftarharga.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\source\\repos\\RentalPS\\RentalPS\\FR_Daftarharga.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T15:22:03.401Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPS\\RentalPS\\Program.cs",
-              "RelativeDocumentMoniker": "RentalPS\\Program.cs",
-              "ToolTip": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPS\\RentalPS\\Program.cs",
-              "RelativeToolTip": "RentalPS\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T07:04:04.364Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "FR_Buatakun.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPS\\RentalPS\\FR_Buatakun.Designer.cs",
-              "RelativeDocumentMoniker": "RentalPS\\FR_Buatakun.Designer.cs",
-              "ToolTip": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPS\\RentalPS\\FR_Buatakun.Designer.cs",
-              "RelativeToolTip": "RentalPS\\FR_Buatakun.Designer.cs",
-              "ViewState": "AgIAAKUAAAAAAAAAAAAowGUAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T02:45:22.061Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
               "Title": "FR_Kontakwa.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPS\\RentalPS\\FR_Kontakwa.cs",
-              "RelativeDocumentMoniker": "RentalPS\\FR_Kontakwa.cs",
-              "ToolTip": "C:\\Users\\SEPTAASIKK\\source\\repos\\RentalPS\\RentalPS\\FR_Kontakwa.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\source\\repos\\RentalPS\\RentalPS\\FR_Kontakwa.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPIES\\RentalPS\\RentalPS\\View\\FR_Kontakwa.cs",
+              "RelativeDocumentMoniker": "RentalPS\\View\\FR_Kontakwa.cs",
+              "ToolTip": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPIES\\RentalPS\\RentalPS\\View\\FR_Kontakwa.cs [Design]",
+              "RelativeToolTip": "RentalPS\\View\\FR_Kontakwa.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T15:08:42.181Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "FR_Promo.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPS\\RentalPS\\FR_Promo.cs",
-              "RelativeDocumentMoniker": "RentalPS\\FR_Promo.cs",
-              "ToolTip": "C:\\Users\\SEPTAASIKK\\source\\repos\\RentalPS\\RentalPS\\FR_Promo.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\source\\repos\\RentalPS\\RentalPS\\FR_Promo.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T14:56:59.809Z"
+              "WhenOpened": "2025-06-29T07:57:43.495Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
             }
           ]
         }

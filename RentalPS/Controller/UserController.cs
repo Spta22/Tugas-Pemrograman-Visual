@@ -16,9 +16,10 @@ namespace RentalPS.Controller
             return userQuery.Login(username, password);
         }
 
-        public bool BuatAkun(string username, string password, string role, string nama)
+        public bool BuatAkun(string username, string password, string nama)
         {
-            return userQuery.BuatAkun(username, password, role, nama);
+            return userQuery.BuatAkun(username, password, nama);
         }
     }
 }
+ 

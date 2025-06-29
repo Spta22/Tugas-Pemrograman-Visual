@@ -38,6 +38,7 @@
             btnBuatakun = new Button();
             pictureLogin = new PictureBox();
             label4 = new Label();
+            label5 = new Label();
             ((System.ComponentModel.ISupportInitialize)pictureLogin).BeginInit();
             SuspendLayout();
             // 
@@ -54,10 +55,10 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Font = new Font("Impact", 25F);
-            label1.Location = new Point(324, 127);
+            label1.Font = new Font("Impact", 22F);
+            label1.Location = new Point(320, 130);
             label1.Name = "label1";
-            label1.Size = new Size(96, 42);
+            label1.Size = new Size(86, 37);
             label1.TabIndex = 1;
             label1.Text = "LOGIN";
             // 
@@ -135,11 +136,22 @@
             // 
             label4.AutoSize = true;
             label4.Font = new Font("Impact", 25F);
-            label4.Location = new Point(177, 50);
+            label4.Location = new Point(177, 22);
             label4.Name = "label4";
             label4.Size = new Size(385, 42);
             label4.TabIndex = 10;
             label4.Text = "Aplikasi Rental Playstation";
+            label4.Click += label4_Click;
+            // 
+            // label5
+            // 
+            label5.AutoSize = true;
+            label5.Font = new Font("Impact", 20F);
+            label5.Location = new Point(249, 64);
+            label5.Name = "label5";
+            label5.Size = new Size(233, 34);
+            label5.TabIndex = 11;
+            label5.Text = "MEIINSYAALLAH PS 5";
             // 
             // Formlogin
             // 
@@ -147,6 +159,7 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.Gray;
             ClientSize = new Size(731, 450);
+            Controls.Add(label5);
             Controls.Add(label4);
             Controls.Add(label3);
             Controls.Add(btnBuatakun);
@@ -157,7 +170,7 @@
             Controls.Add(textUsername);
             Controls.Add(pictureLogin);
             Name = "Formlogin";
-            Text = "Form1";
+            Text = " ";
             ((System.ComponentModel.ISupportInitialize)pictureLogin).EndInit();
             ResumeLayout(false);
             PerformLayout();
@@ -174,5 +187,6 @@
         private Button btnBuatakun;
         private PictureBox pictureLogin;
         private Label label4;
+        private Label label5;
     }
 }

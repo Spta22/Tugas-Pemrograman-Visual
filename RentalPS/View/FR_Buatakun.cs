@@ -26,16 +26,15 @@ namespace RentalPS
             string username = txtUsername.Text;
             string password = txtPassword.Text;
             string nama = txtNama.Text;
-            string role = cmboRole.SelectedItem?.ToString();
 
             // Validasi input kosong
-            if (string.IsNullOrEmpty(username) || string.IsNullOrEmpty(password) || string.IsNullOrEmpty(nama) || string.IsNullOrEmpty(role))
+            if (string.IsNullOrEmpty(username) || string.IsNullOrEmpty(password) || string.IsNullOrEmpty(nama))
             {
                 MessageBox.Show("Semua field harus diisi!");
                 return;
             }
             //buat akun
-            bool sukses = userController.BuatAkun(username, password, role, nama);
+            bool sukses = userController.BuatAkun(username, password, nama);
             if (sukses)
             {
                 MessageBox.Show("Akun berhasil didaftarkan!");

@@ -29,23 +29,12 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FR_Kontakwa));
-            linkLabel1 = new LinkLabel();
             button1 = new Button();
             label7 = new Label();
             pictureBox2 = new PictureBox();
+            button2 = new Button();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
             SuspendLayout();
-            // 
-            // linkLabel1
-            // 
-            linkLabel1.AutoSize = true;
-            linkLabel1.Font = new Font("Segoe UI", 12F);
-            linkLabel1.Location = new Point(231, 120);
-            linkLabel1.Name = "linkLabel1";
-            linkLabel1.Size = new Size(228, 21);
-            linkLabel1.TabIndex = 0;
-            linkLabel1.TabStop = true;
-            linkLabel1.Text = "https://wa.me/6281654902946";
             // 
             // button1
             // 
@@ -65,7 +54,7 @@
             // label7
             // 
             label7.AutoSize = true;
-            label7.BorderStyle = BorderStyle.Fixed3D;
+            label7.BorderStyle = BorderStyle.FixedSingle;
             label7.FlatStyle = FlatStyle.Flat;
             label7.Font = new Font("Segoe UI", 15F);
             label7.Location = new Point(260, 25);
@@ -84,15 +73,29 @@
             pictureBox2.TabIndex = 39;
             pictureBox2.TabStop = false;
             // 
+            // button2
+            // 
+            button2.BackgroundImageLayout = ImageLayout.None;
+            button2.FlatStyle = FlatStyle.Flat;
+            button2.Image = (Image)resources.GetObject("button2.Image");
+            button2.ImageAlign = ContentAlignment.MiddleLeft;
+            button2.Location = new Point(284, 116);
+            button2.Name = "button2";
+            button2.Size = new Size(127, 31);
+            button2.TabIndex = 40;
+            button2.Text = "Whatshapp";
+            button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
+            // 
             // FR_Kontakwa
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.Gray;
             ClientSize = new Size(692, 266);
+            Controls.Add(button2);
             Controls.Add(label7);
             Controls.Add(button1);
-            Controls.Add(linkLabel1);
             Controls.Add(pictureBox2);
             Name = "FR_Kontakwa";
             Text = "kontakwa";
@@ -102,10 +105,9 @@
         }
 
         #endregion
-
-        private LinkLabel linkLabel1;
         private Button button1;
         private Label label7;
         private PictureBox pictureBox2;
+        private Button button2;
     }
 }

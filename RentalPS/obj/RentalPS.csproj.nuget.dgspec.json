@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPS\\RentalPS\\RentalPS.csproj": {}
+    "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPIES\\RentalPS\\RentalPS\\RentalPS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPS\\RentalPS\\RentalPS.csproj": {
+    "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPIES\\RentalPS\\RentalPS\\RentalPS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPS\\RentalPS\\RentalPS.csproj",
+        "projectUniqueName": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPIES\\RentalPS\\RentalPS\\RentalPS.csproj",
         "projectName": "RentalPS",
-        "projectPath": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPS\\RentalPS\\RentalPS.csproj",
+        "projectPath": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPIES\\RentalPS\\RentalPS\\RentalPS.csproj",
         "packagesPath": "C:\\Users\\SEPTAASIKK\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPS\\RentalPS\\obj\\",
+        "outputPath": "C:\\Users\\SEPTAASIKK\\Documents\\Pemrograman visual smt 6\\RentalPIES\\RentalPS\\RentalPS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -53,6 +53,10 @@
             "MySql.Data": {
               "target": "Package",
               "version": "[9.3.0, )"
+            },
+            "iTextSharp": {
+              "target": "Package",
+              "version": "[5.5.13.4, )"
             }
           },
           "imports": [

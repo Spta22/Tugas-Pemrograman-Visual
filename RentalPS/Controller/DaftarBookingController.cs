@@ -15,6 +15,7 @@ namespace RentalPS.Controller
         // Ambil semua data booking
         public DataTable AmbilDaftarBooking()
         {
+            string sql = "SELECT * FROM booking";
             return bookingQuery.AmbilDaftarBooking();
         }
 

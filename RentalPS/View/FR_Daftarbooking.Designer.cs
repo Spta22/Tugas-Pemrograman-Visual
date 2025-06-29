@@ -35,6 +35,7 @@
             btnKembali = new Button();
             pictureBox1 = new PictureBox();
             textBox1 = new TextBox();
+            button1 = new Button();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
@@ -44,8 +45,9 @@
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dataGridView1.Location = new Point(12, 43);
             dataGridView1.Name = "dataGridView1";
-            dataGridView1.Size = new Size(776, 395);
+            dataGridView1.Size = new Size(875, 345);
             dataGridView1.TabIndex = 0;
+            dataGridView1.CellContentClick += dataGridView1_CellContentClick;
             // 
             // btnEdit
             // 
@@ -97,7 +99,7 @@
             pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
             pictureBox1.Location = new Point(1, 2);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(800, 450);
+            pictureBox1.Size = new Size(896, 450);
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox1.TabIndex = 5;
             pictureBox1.TabStop = false;
@@ -112,11 +114,26 @@
             textBox1.Enter += textBox1_Enter;
             textBox1.Leave += textBox1_Leave;
             // 
+            // button1
+            // 
+            button1.BackColor = Color.DarkGray;
+            button1.FlatStyle = FlatStyle.Flat;
+            button1.Image = (Image)resources.GetObject("button1.Image");
+            button1.ImageAlign = ContentAlignment.MiddleLeft;
+            button1.Location = new Point(794, 12);
+            button1.Name = "button1";
+            button1.Size = new Size(83, 25);
+            button1.TabIndex = 7;
+            button1.Text = "  Cetak";
+            button1.UseVisualStyleBackColor = false;
+            button1.Click += button1_Click_1;
+            // 
             // FR_Daftarbooking
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(899, 450);
+            Controls.Add(button1);
             Controls.Add(textBox1);
             Controls.Add(btnKembali);
             Controls.Add(btnHapus);
@@ -140,5 +157,6 @@
         private Button btnKembali;
         private PictureBox pictureBox1;
         private TextBox textBox1;
+        private Button button1;
     }
 }

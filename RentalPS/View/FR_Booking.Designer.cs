@@ -146,7 +146,7 @@
             // 
             button1.Image = (Image)resources.GetObject("button1.Image");
             button1.ImageAlign = ContentAlignment.MiddleLeft;
-            button1.Location = new Point(532, 145);
+            button1.Location = new Point(551, 197);
             button1.Name = "button1";
             button1.Size = new Size(102, 27);
             button1.TabIndex = 12;
@@ -192,7 +192,7 @@
             button2.FlatStyle = FlatStyle.Flat;
             button2.Image = (Image)resources.GetObject("button2.Image");
             button2.ImageAlign = ContentAlignment.MiddleLeft;
-            button2.Location = new Point(532, 145);
+            button2.Location = new Point(551, 195);
             button2.Name = "button2";
             button2.Size = new Size(102, 28);
             button2.TabIndex = 24;
@@ -204,7 +204,7 @@
             // 
             pictureBox1.BackColor = Color.Gray;
             pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
-            pictureBox1.Location = new Point(252, 35);
+            pictureBox1.Location = new Point(249, 24);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(214, 201);
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;

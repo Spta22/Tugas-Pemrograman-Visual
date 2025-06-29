@@ -37,15 +37,19 @@ namespace RentalPS
         }
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-            // Contoh: cek apakah ada teks
-            // string input = textBox1.Text;
+
         }
 
         private void btnBuatakun_Click(object sender, EventArgs e)
         {
-            FR_Buatakun FR_Buatakun = new FR_Buatakun(); // Buat instance dari form baru
-            FR_Buatakun.Show(); // Tampilkan form
-            this.Hide(); // Sembunyikan form login (opsional)
+            FR_Buatakun FR_Buatakun = new FR_Buatakun();
+            FR_Buatakun.Show();
+            this.Hide();
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

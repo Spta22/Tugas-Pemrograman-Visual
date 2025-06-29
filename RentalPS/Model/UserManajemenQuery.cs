@@ -37,16 +37,15 @@ namespace RentalPS.Model
             }
         }
 
-        public bool BuatAkun(string username, string password, string role, string nama)
+        public bool BuatAkun(string username, string password, string nama)
         {
             try
             {
                 kon.buka();
-                string query = "INSERT INTO users (username, password, role, nama) VALUES (@username, @password, @role, @nama)";
+                string query = "INSERT INTO users (username, password, nama) VALUES (@username, @password, @nama)";
                 MySqlCommand cmd = new MySqlCommand(query, kon.koneksi);
                 cmd.Parameters.AddWithValue("@username", username);
                 cmd.Parameters.AddWithValue("@password", password);
-                cmd.Parameters.AddWithValue("@role", role);
                 cmd.Parameters.AddWithValue("@nama", nama);
 
                 cmd.ExecuteNonQuery();

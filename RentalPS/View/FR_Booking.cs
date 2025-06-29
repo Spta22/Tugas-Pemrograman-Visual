@@ -74,7 +74,7 @@ namespace RentalPS
         //panggil
         private void button1_Click(object sender, EventArgs e)
         {
-            bool sukses = bookingController.BuatBooking(
+             bool sukses = bookingController.BuatBooking(
                 textNama.Text,
                 textTelepon.Text,
                 comboMeja.SelectedItem.ToString(),

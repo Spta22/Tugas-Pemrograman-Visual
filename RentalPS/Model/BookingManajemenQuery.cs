@@ -12,13 +12,42 @@ namespace RentalPS.Model
     {
         private Koneksi kon = new Koneksi();
         // bool = variable berisi true atau false
+
+        private int HitungHarga(TimeSpan jamMulai, TimeSpan jamSelesai)
+        {
+            //Durasi dalam jam
+            int durasiJam = (int)(jamSelesai - jamMulai).TotalHours;
+
+            return durasiJam switch
+            {
+                1 => 5000,
+                2 => 9000,
+                3 => 14000,
+                4 => 17000,
+                5 => 20000,
+                6 => 20000  // Diskon 1 jam jika main 6 jam
+            };
+        }
+
         public bool BuatBooking(string nama, string telepon, string meja, DateTime tanggal, TimeSpan jamMulai, TimeSpan jamSelesai)
         {
             try
             {
                 kon.buka();
+                int durasiJam = (int)(jamSelesai - jamMulai).TotalHours;
 
-                string query = "INSERT INTO booking (nama, telepon, meja, tanggal, jam_mulai, jam_selesai) VALUES (@nama, @telepon, @meja, @tanggal, @jam_mulai, @jam_selesai)";
+                // Hitung harga berdasarkan durasi
+                int harga = durasiJam switch
+                {
+                    1 => 5000,
+                    2 => 9000,
+                    3 => 14000,
+                    4 => 17000,
+                    5 => 20000,
+                    6 => 20000  // Diskon 1 jam jika main 6 jam
+                };
+
+                string query = "INSERT INTO booking (nama, telepon, meja, tanggal, jam_mulai, jam_selesai, harga) VALUES (@nama, @telepon, @meja, @tanggal, @jam_mulai, @jam_selesai, @harga)";
                 MySqlCommand cmd = new MySqlCommand(query, kon.koneksi);
                 cmd.Parameters.AddWithValue("@nama", nama);
                 cmd.Parameters.AddWithValue("@telepon", telepon);
@@ -26,6 +55,7 @@ namespace RentalPS.Model
                 cmd.Parameters.AddWithValue("@tanggal", tanggal.ToString("yyyy-MM-dd"));
                 cmd.Parameters.AddWithValue("@jam_mulai", jamMulai.ToString(@"hh\:mm\:ss"));
                 cmd.Parameters.AddWithValue("@jam_selesai", jamSelesai.ToString(@"hh\:mm\:ss"));
+                cmd.Parameters.AddWithValue("@harga", harga);
 
                 cmd.ExecuteNonQuery();
 
@@ -44,8 +74,9 @@ namespace RentalPS.Model
             try
             {
                 kon.buka();
+                int harga = HitungHarga(jamMulai, jamSelesai);
 
-                string query = "UPDATE booking SET nama = @nama, telepon = @telepon, meja = @meja, tanggal = @tanggal, jam_mulai = @jam_mulai, jam_selesai = @jam_selesai WHERE id_booking = @idbooking";
+                string query = "UPDATE booking SET nama = @nama, telepon = @telepon, meja = @meja, tanggal = @tanggal, jam_mulai = @jam_mulai, jam_selesai = @jam_selesai, harga = @harga WHERE id_booking = @idbooking";
                 MySqlCommand cmd = new MySqlCommand(query, kon.koneksi);
                 cmd.Parameters.AddWithValue("@idbooking", bookingId);
                 cmd.Parameters.AddWithValue("@nama", nama);
@@ -54,6 +85,7 @@ namespace RentalPS.Model
                 cmd.Parameters.AddWithValue("@tanggal", tanggal.ToString("yyyy-MM-dd"));
                 cmd.Parameters.AddWithValue("@jam_mulai", jamMulai.ToString(@"hh\:mm\:ss"));
                 cmd.Parameters.AddWithValue("@jam_selesai", jamSelesai.ToString(@"hh\:mm\:ss"));
+                cmd.Parameters.AddWithValue("@harga", harga);
 
                 cmd.ExecuteNonQuery();
 
