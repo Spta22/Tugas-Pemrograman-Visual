@@ -71,7 +71,7 @@ Dalam halaman daftar harga terdapat 2 fitur saja yaitu:
 
 Kontak WA :
 Menu Kontak Wa
-![Kontak Wa]()
+![Kontak Wa](https://github.com/Spta22/Tugas-Pemrograman-Visual/blob/main/Form%20KontaWa.jpeg)
 Form ini menyediakan tombol untuk langsung menghubungi admin rental via WhatsApp. Ketika tombol diklik, pengguna akan diarahkan ke halaman chat WhatsApp melalui browser, menggunakan nomor WA admin yang telah diatur sebelumnya. Fitur ini sangat membantu bagi pengguna yang membutuhkan bantuan atau ingin bertanya langsung tanpa harus menyimpan nomor terlebih dahulu.
 Dalam halaman kontak wa terdapat 2 fitur saja yaitu:
     Dapat membuka langsung link WhatsApp ke nomor admin saat tombol ditekan:
