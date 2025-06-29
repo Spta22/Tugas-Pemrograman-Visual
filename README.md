@@ -1,8 +1,8 @@
 Menu Login
-![Login]((https://github.com/Spta22/Tugas-Pemrograman-Visual/blob/main/Form%20Booking.jpeg))
+![Login](https://github.com/Spta22/Tugas-Pemrograman-Visual/blob/main/Form%20Booking.jpeg)
 
 Menu Buat Akun
-![Buat Akun](FormBuatAkun.jpeg)
+![Buat Akun](C:\Users\SEPTAASIKK\Documents\Pemrograman visual smt 6\RentalPIES\RentalPS\Form Buat Akun.jpeg)
 
 Menu Dashboard
 ![Dashboard](FormDashboard.jpeg)
