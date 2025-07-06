@@ -204,7 +204,7 @@ namespace RentalPS
             var cellFont = new iTextSharp.text.Font(iTextSharp.text.Font.FontFamily.HELVETICA, 11);
             var footerFont = new iTextSharp.text.Font(iTextSharp.text.Font.FontFamily.HELVETICA, 10, iTextSharp.text.Font.ITALIC);
 
-            string logoPath = @"C:\Users\SEPTAASIKK\Documents\Pemrograman visual smt 6\ikon\PlayStation.png";
+            string logoPath = @"C:\Users\SEPTAASIKK\Documents\Pemrograman visual smt 6\ikon\playstation.png";
             if (File.Exists(logoPath))
             {
                 iTextSharp.text.Image logo = iTextSharp.text.Image.GetInstance(logoPath);

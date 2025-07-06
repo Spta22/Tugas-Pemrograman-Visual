@@ -45,7 +45,7 @@
             // textUsername
             // 
             textUsername.BackColor = SystemColors.Window;
-            textUsername.Location = new Point(280, 197);
+            textUsername.Location = new Point(280, 186);
             textUsername.Multiline = true;
             textUsername.Name = "textUsername";
             textUsername.Size = new Size(241, 22);
@@ -56,7 +56,7 @@
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Impact", 22F);
-            label1.Location = new Point(320, 130);
+            label1.Location = new Point(317, 120);
             label1.Name = "label1";
             label1.Size = new Size(86, 37);
             label1.TabIndex = 1;
@@ -67,7 +67,7 @@
             label2.AutoSize = true;
             label2.BackColor = Color.Silver;
             label2.Font = new Font("Segoe UI", 13F);
-            label2.Location = new Point(177, 197);
+            label2.Location = new Point(177, 186);
             label2.Name = "label2";
             label2.Size = new Size(91, 25);
             label2.TabIndex = 2;
@@ -78,7 +78,7 @@
             label3.AutoSize = true;
             label3.BackColor = Color.Silver;
             label3.Font = new Font("Segoe UI", 13F);
-            label3.Location = new Point(177, 248);
+            label3.Location = new Point(177, 229);
             label3.Name = "label3";
             label3.Size = new Size(87, 25);
             label3.TabIndex = 4;
@@ -86,7 +86,7 @@
             // 
             // textPassword
             // 
-            textPassword.Location = new Point(277, 251);
+            textPassword.Location = new Point(280, 232);
             textPassword.Multiline = true;
             textPassword.Name = "textPassword";
             textPassword.Size = new Size(241, 24);
@@ -99,7 +99,7 @@
             btnLogin.FlatStyle = FlatStyle.Flat;
             btnLogin.Image = (Image)resources.GetObject("btnLogin.Image");
             btnLogin.ImageAlign = ContentAlignment.MiddleLeft;
-            btnLogin.Location = new Point(434, 304);
+            btnLogin.Location = new Point(434, 282);
             btnLogin.Name = "btnLogin";
             btnLogin.Size = new Size(87, 32);
             btnLogin.TabIndex = 7;
@@ -114,7 +114,7 @@
             btnBuatakun.FlatStyle = FlatStyle.Flat;
             btnBuatakun.Image = (Image)resources.GetObject("btnBuatakun.Image");
             btnBuatakun.ImageAlign = ContentAlignment.MiddleLeft;
-            btnBuatakun.Location = new Point(177, 304);
+            btnBuatakun.Location = new Point(177, 282);
             btnBuatakun.Name = "btnBuatakun";
             btnBuatakun.Size = new Size(111, 32);
             btnBuatakun.TabIndex = 8;
@@ -127,7 +127,7 @@
             pictureLogin.Image = Properties.Resources.WhatsApp_Image_2025_04_25_at_17_37_56;
             pictureLogin.Location = new Point(2, 2);
             pictureLogin.Name = "pictureLogin";
-            pictureLogin.Size = new Size(730, 450);
+            pictureLogin.Size = new Size(693, 366);
             pictureLogin.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureLogin.TabIndex = 9;
             pictureLogin.TabStop = false;
@@ -158,7 +158,7 @@
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.Gray;
-            ClientSize = new Size(731, 450);
+            ClientSize = new Size(692, 363);
             Controls.Add(label5);
             Controls.Add(label4);
             Controls.Add(label3);

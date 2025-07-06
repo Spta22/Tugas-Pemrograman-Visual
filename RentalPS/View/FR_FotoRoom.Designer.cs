@@ -1,6 +1,6 @@
-﻿namespace RentalPS
+﻿namespace RentalPS.View
 {
-    partial class FR_Dashboard
+    partial class FR_FotoRoom
     {
         /// <summary>
         /// Required designer variable.
@@ -28,35 +28,17 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FR_Dashboard));
-            button1 = new Button();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FR_FotoRoom));
             button2 = new Button();
+            button1 = new Button();
             button3 = new Button();
             button4 = new Button();
-            label1 = new Label();
             button5 = new Button();
             button6 = new Button();
-            pictureBox1 = new PictureBox();
-            pictureBox2 = new PictureBox();
             button7 = new Button();
-            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
+            picturePreview = new PictureBox();
+            ((System.ComponentModel.ISupportInitialize)picturePreview).BeginInit();
             SuspendLayout();
-            // 
-            // button1
-            // 
-            button1.BackColor = Color.White;
-            button1.FlatAppearance.BorderSize = 0;
-            button1.FlatStyle = FlatStyle.Flat;
-            button1.Image = (Image)resources.GetObject("button1.Image");
-            button1.ImageAlign = ContentAlignment.MiddleLeft;
-            button1.Location = new Point(43, 54);
-            button1.Name = "button1";
-            button1.Size = new Size(96, 33);
-            button1.TabIndex = 0;
-            button1.Text = " Booking";
-            button1.UseVisualStyleBackColor = false;
-            button1.Click += button1_Click;
             // 
             // button2
             // 
@@ -65,13 +47,28 @@
             button2.FlatStyle = FlatStyle.Flat;
             button2.Image = (Image)resources.GetObject("button2.Image");
             button2.ImageAlign = ContentAlignment.MiddleLeft;
-            button2.Location = new Point(43, 132);
+            button2.Location = new Point(53, 27);
             button2.Name = "button2";
-            button2.Size = new Size(127, 33);
-            button2.TabIndex = 1;
-            button2.Text = "Daftar Harga";
+            button2.Size = new Size(100, 30);
+            button2.TabIndex = 2;
+            button2.Text = "Room 1";
             button2.UseVisualStyleBackColor = false;
             button2.Click += button2_Click;
+            // 
+            // button1
+            // 
+            button1.BackColor = Color.White;
+            button1.FlatAppearance.BorderSize = 0;
+            button1.FlatStyle = FlatStyle.Flat;
+            button1.Image = (Image)resources.GetObject("button1.Image");
+            button1.ImageAlign = ContentAlignment.MiddleLeft;
+            button1.Location = new Point(53, 135);
+            button1.Name = "button1";
+            button1.Size = new Size(100, 30);
+            button1.TabIndex = 3;
+            button1.Text = "Room 4";
+            button1.UseVisualStyleBackColor = false;
+            button1.Click += button1_Click;
             // 
             // button3
             // 
@@ -80,11 +77,11 @@
             button3.FlatStyle = FlatStyle.Flat;
             button3.Image = (Image)resources.GetObject("button3.Image");
             button3.ImageAlign = ContentAlignment.MiddleLeft;
-            button3.Location = new Point(43, 171);
+            button3.Location = new Point(53, 99);
             button3.Name = "button3";
-            button3.Size = new Size(152, 33);
-            button3.TabIndex = 2;
-            button3.Text = " Kontak WA Admin";
+            button3.Size = new Size(100, 30);
+            button3.TabIndex = 4;
+            button3.Text = "Room 3";
             button3.UseVisualStyleBackColor = false;
             button3.Click += button3_Click;
             // 
@@ -95,24 +92,13 @@
             button4.FlatStyle = FlatStyle.Flat;
             button4.Image = (Image)resources.GetObject("button4.Image");
             button4.ImageAlign = ContentAlignment.MiddleLeft;
-            button4.Location = new Point(43, 249);
+            button4.Location = new Point(53, 63);
             button4.Name = "button4";
-            button4.Size = new Size(108, 33);
-            button4.TabIndex = 3;
-            button4.Text = "Kembali";
+            button4.Size = new Size(100, 30);
+            button4.TabIndex = 5;
+            button4.Text = "Room 2";
             button4.UseVisualStyleBackColor = false;
             button4.Click += button4_Click;
-            // 
-            // label1
-            // 
-            label1.AutoSize = true;
-            label1.Font = new Font("Impact", 25F);
-            label1.Location = new Point(269, 9);
-            label1.Name = "label1";
-            label1.Size = new Size(183, 42);
-            label1.TabIndex = 4;
-            label1.Text = "DASHBOARD";
-            label1.UseWaitCursor = true;
             // 
             // button5
             // 
@@ -121,11 +107,11 @@
             button5.FlatStyle = FlatStyle.Flat;
             button5.Image = (Image)resources.GetObject("button5.Image");
             button5.ImageAlign = ContentAlignment.MiddleLeft;
-            button5.Location = new Point(43, 132);
+            button5.Location = new Point(53, 207);
             button5.Name = "button5";
-            button5.Size = new Size(96, 33);
-            button5.TabIndex = 5;
-            button5.Text = "Promo";
+            button5.Size = new Size(100, 30);
+            button5.TabIndex = 6;
+            button5.Text = "Room 6";
             button5.UseVisualStyleBackColor = false;
             button5.Click += button5_Click;
             // 
@@ -136,33 +122,13 @@
             button6.FlatStyle = FlatStyle.Flat;
             button6.Image = (Image)resources.GetObject("button6.Image");
             button6.ImageAlign = ContentAlignment.MiddleLeft;
-            button6.Location = new Point(43, 93);
+            button6.Location = new Point(53, 171);
             button6.Name = "button6";
-            button6.Size = new Size(124, 33);
-            button6.TabIndex = 6;
-            button6.Text = "Data Booking";
+            button6.Size = new Size(100, 30);
+            button6.TabIndex = 7;
+            button6.Text = "Room 5";
             button6.UseVisualStyleBackColor = false;
             button6.Click += button6_Click;
-            // 
-            // pictureBox1
-            // 
-            pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
-            pictureBox1.Location = new Point(238, 44);
-            pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(247, 213);
-            pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
-            pictureBox1.TabIndex = 7;
-            pictureBox1.TabStop = false;
-            // 
-            // pictureBox2
-            // 
-            pictureBox2.Image = (Image)resources.GetObject("pictureBox2.Image");
-            pictureBox2.Location = new Point(284, 229);
-            pictureBox2.Name = "pictureBox2";
-            pictureBox2.Size = new Size(144, 90);
-            pictureBox2.SizeMode = PictureBoxSizeMode.CenterImage;
-            pictureBox2.TabIndex = 8;
-            pictureBox2.TabStop = false;
             // 
             // button7
             // 
@@ -171,51 +137,53 @@
             button7.FlatStyle = FlatStyle.Flat;
             button7.Image = (Image)resources.GetObject("button7.Image");
             button7.ImageAlign = ContentAlignment.MiddleLeft;
-            button7.Location = new Point(43, 210);
+            button7.Location = new Point(12, 263);
             button7.Name = "button7";
-            button7.Size = new Size(152, 33);
-            button7.TabIndex = 9;
-            button7.Text = "Foto Room Meja";
+            button7.Size = new Size(100, 27);
+            button7.TabIndex = 8;
+            button7.Text = "Kembali";
             button7.UseVisualStyleBackColor = false;
             button7.Click += button7_Click;
             // 
-            // FR_Dashboard
+            // picturePreview
+            // 
+            picturePreview.Image = (Image)resources.GetObject("picturePreview.Image");
+            picturePreview.Location = new Point(227, 12);
+            picturePreview.Name = "picturePreview";
+            picturePreview.Size = new Size(260, 234);
+            picturePreview.SizeMode = PictureBoxSizeMode.StretchImage;
+            picturePreview.TabIndex = 9;
+            picturePreview.TabStop = false;
+            // 
+            // FR_FotoRoom
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            BackColor = Color.Gray;
-            BackgroundImageLayout = ImageLayout.None;
-            ClientSize = new Size(660, 322);
+            BackColor = Color.DimGray;
+            ClientSize = new Size(622, 302);
+            Controls.Add(picturePreview);
             Controls.Add(button7);
-            Controls.Add(label1);
+            Controls.Add(button6);
+            Controls.Add(button5);
             Controls.Add(button4);
             Controls.Add(button3);
-            Controls.Add(button2);
-            Controls.Add(button5);
-            Controls.Add(button6);
             Controls.Add(button1);
-            Controls.Add(pictureBox1);
-            Controls.Add(pictureBox2);
-            Name = "FR_Dashboard";
-            RightToLeftLayout = true;
-            Text = "Dashboard";
-            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
-            ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
+            Controls.Add(button2);
+            Name = "FR_FotoRoom";
+            Text = "FR_FotoRoom";
+            ((System.ComponentModel.ISupportInitialize)picturePreview).EndInit();
             ResumeLayout(false);
-            PerformLayout();
         }
 
         #endregion
 
-        private Button button1;
         private Button button2;
+        private Button button1;
         private Button button3;
         private Button button4;
-        private Label label1;
         private Button button5;
         private Button button6;
-        private PictureBox pictureBox1;
-        private PictureBox pictureBox2;
         private Button button7;
+        private PictureBox picturePreview;
     }
 }

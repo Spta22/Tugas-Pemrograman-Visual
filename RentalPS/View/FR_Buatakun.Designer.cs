@@ -47,7 +47,7 @@
             label3.AutoSize = true;
             label3.BackColor = Color.Silver;
             label3.Font = new Font("Segoe UI", 13F);
-            label3.Location = new Point(182, 131);
+            label3.Location = new Point(133, 131);
             label3.Name = "label3";
             label3.Size = new Size(87, 25);
             label3.TabIndex = 11;
@@ -55,7 +55,7 @@
             // 
             // txtPassword
             // 
-            txtPassword.Location = new Point(291, 131);
+            txtPassword.Location = new Point(253, 131);
             txtPassword.Multiline = true;
             txtPassword.Name = "txtPassword";
             txtPassword.Size = new Size(241, 25);
@@ -66,7 +66,7 @@
             label2.AutoSize = true;
             label2.BackColor = Color.Silver;
             label2.Font = new Font("Segoe UI", 13F);
-            label2.Location = new Point(182, 94);
+            label2.Location = new Point(133, 94);
             label2.Name = "label2";
             label2.Size = new Size(91, 25);
             label2.TabIndex = 9;
@@ -76,7 +76,7 @@
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Impact", 25F);
-            label1.Location = new Point(319, 31);
+            label1.Location = new Point(264, 23);
             label1.Name = "label1";
             label1.Size = new Size(165, 42);
             label1.TabIndex = 8;
@@ -84,7 +84,7 @@
             // 
             // txtUsername
             // 
-            txtUsername.Location = new Point(291, 92);
+            txtUsername.Location = new Point(253, 94);
             txtUsername.Multiline = true;
             txtUsername.Name = "txtUsername";
             txtUsername.Size = new Size(241, 27);
@@ -92,7 +92,7 @@
             // 
             // txtNama
             // 
-            txtNama.Location = new Point(291, 175);
+            txtNama.Location = new Point(253, 175);
             txtNama.Multiline = true;
             txtNama.Name = "txtNama";
             txtNama.Size = new Size(241, 25);
@@ -103,7 +103,7 @@
             label5.AutoSize = true;
             label5.BackColor = Color.Silver;
             label5.Font = new Font("Segoe UI", 13F);
-            label5.Location = new Point(182, 175);
+            label5.Location = new Point(133, 175);
             label5.Name = "label5";
             label5.Size = new Size(59, 25);
             label5.TabIndex = 17;
@@ -116,7 +116,7 @@
             btndaftar.FlatStyle = FlatStyle.Flat;
             btndaftar.Image = (Image)resources.GetObject("btndaftar.Image");
             btndaftar.ImageAlign = ContentAlignment.MiddleLeft;
-            btndaftar.Location = new Point(435, 242);
+            btndaftar.Location = new Point(397, 242);
             btndaftar.Name = "btndaftar";
             btndaftar.Size = new Size(97, 32);
             btndaftar.TabIndex = 19;
@@ -131,7 +131,7 @@
             btnkembali.FlatStyle = FlatStyle.Flat;
             btnkembali.Image = (Image)resources.GetObject("btnkembali.Image");
             btnkembali.ImageAlign = ContentAlignment.MiddleLeft;
-            btnkembali.Location = new Point(173, 242);
+            btnkembali.Location = new Point(133, 242);
             btnkembali.Name = "btnkembali";
             btnkembali.Size = new Size(108, 32);
             btnkembali.TabIndex = 20;
@@ -144,7 +144,7 @@
             pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
             pictureBox1.Location = new Point(-1, 0);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(761, 329);
+            pictureBox1.Size = new Size(655, 329);
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox1.TabIndex = 21;
             pictureBox1.TabStop = false;
@@ -153,7 +153,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(760, 327);
+            ClientSize = new Size(655, 327);
             Controls.Add(btnkembali);
             Controls.Add(btndaftar);
             Controls.Add(label5);
