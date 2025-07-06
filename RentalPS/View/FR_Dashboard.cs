@@ -7,7 +7,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using RentalPS.View;
 
 namespace RentalPS
 {
@@ -20,7 +19,7 @@ namespace RentalPS
 
         private void button1_Click(object sender, EventArgs e)
         {
-            FR_Booking FR_Booking = new FR_Booking();
+            FR_Booking FR_Booking = new FR_Booking(); 
             FR_Booking.Show();
             this.Hide();
         }
@@ -35,7 +34,7 @@ namespace RentalPS
 
         private void button2_Click(object sender, EventArgs e)
         {
-            FR_Daftarharga FR_Daftarharga = new FR_Daftarharga();
+            FR_Daftarharga FR_Daftarharga = new FR_Daftarharga(); 
             FR_Daftarharga.Show();
             this.Hide();
         }
@@ -58,13 +57,6 @@ namespace RentalPS
         {
             FR_Daftarbooking FR_Daftarbooking = new FR_Daftarbooking(); // Buat form login baru
             FR_Daftarbooking.Show();
-            this.Hide();
-        }
-
-        private void button7_Click(object sender, EventArgs e)
-        {
-            FR_FotoRoom formFoto = new FR_FotoRoom(); // Buat form login baru
-            formFoto.Show();
             this.Hide();
         }
     }

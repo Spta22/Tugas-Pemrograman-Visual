@@ -38,7 +38,6 @@
             button6 = new Button();
             pictureBox1 = new PictureBox();
             pictureBox2 = new PictureBox();
-            button7 = new Button();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
             SuspendLayout();
@@ -95,7 +94,7 @@
             button4.FlatStyle = FlatStyle.Flat;
             button4.Image = (Image)resources.GetObject("button4.Image");
             button4.ImageAlign = ContentAlignment.MiddleLeft;
-            button4.Location = new Point(43, 249);
+            button4.Location = new Point(43, 210);
             button4.Name = "button4";
             button4.Size = new Size(108, 33);
             button4.TabIndex = 3;
@@ -164,29 +163,13 @@
             pictureBox2.TabIndex = 8;
             pictureBox2.TabStop = false;
             // 
-            // button7
-            // 
-            button7.BackColor = Color.White;
-            button7.FlatAppearance.BorderSize = 0;
-            button7.FlatStyle = FlatStyle.Flat;
-            button7.Image = (Image)resources.GetObject("button7.Image");
-            button7.ImageAlign = ContentAlignment.MiddleLeft;
-            button7.Location = new Point(43, 210);
-            button7.Name = "button7";
-            button7.Size = new Size(152, 33);
-            button7.TabIndex = 9;
-            button7.Text = "Foto Room Meja";
-            button7.UseVisualStyleBackColor = false;
-            button7.Click += button7_Click;
-            // 
             // FR_Dashboard
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.Gray;
             BackgroundImageLayout = ImageLayout.None;
-            ClientSize = new Size(660, 322);
-            Controls.Add(button7);
+            ClientSize = new Size(712, 322);
             Controls.Add(label1);
             Controls.Add(button4);
             Controls.Add(button3);
@@ -216,6 +199,5 @@
         private Button button6;
         private PictureBox pictureBox1;
         private PictureBox pictureBox2;
-        private Button button7;
     }
 }

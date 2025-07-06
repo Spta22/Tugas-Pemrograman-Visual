@@ -1,4 +1,4 @@
-﻿using MySql.Data.MySqlClient;
+using MySql.Data.MySqlClient;
 using RentalPS.Controller;
 using RentalPS.Model;
 namespace RentalPS
@@ -24,29 +24,7 @@ namespace RentalPS
             bool loginBerhasil = userController.Login(username, password);
             if (loginBerhasil)
             {
-                // ─── Tambahan: ambil nama sesuai akun ──────────────────────
-                string namaPengguna = username;                     
-                try
-                {
-                    string connStr = "server=localhost;user id=root;password=...;database=rentalps;";
-                    using var conn = new MySqlConnection(connStr);
-                    conn.Open();
-
-                    string sql = "SELECT nama FROM users WHERE username = @u LIMIT 1";
-                    using var cmd = new MySqlCommand(sql, conn);
-                    cmd.Parameters.AddWithValue("@u", username);
-
-                    using var rdr = cmd.ExecuteReader();
-                    if (rdr.Read()) namaPengguna = rdr.GetString("nama");
-                }
-                catch {  }
-
-                MessageBox.Show(
-                    $"Selamat Datang {namaPengguna} Di Aplikasi Rental PS Meiinsyaallah",
-                    "Login Sukses",
-                    MessageBoxButtons.OK,
-                    MessageBoxIcon.Information);
-
+                MessageBox.Show("Login berhasil!");
                 FR_Dashboard dashboard = new FR_Dashboard();
                 dashboard.Show();
                 this.Hide();

@@ -43,7 +43,7 @@
             button1.FlatStyle = FlatStyle.Flat;
             button1.Image = (Image)resources.GetObject("button1.Image");
             button1.ImageAlign = ContentAlignment.MiddleLeft;
-            button1.Location = new Point(231, 201);
+            button1.Location = new Point(295, 215);
             button1.Name = "button1";
             button1.Size = new Size(106, 29);
             button1.TabIndex = 14;
@@ -57,7 +57,7 @@
             label7.BorderStyle = BorderStyle.FixedSingle;
             label7.FlatStyle = FlatStyle.Flat;
             label7.Font = new Font("Segoe UI", 15F);
-            label7.Location = new Point(205, 35);
+            label7.Location = new Point(260, 25);
             label7.Name = "label7";
             label7.Size = new Size(172, 30);
             label7.TabIndex = 38;
@@ -66,7 +66,7 @@
             // pictureBox2
             // 
             pictureBox2.Image = (Image)resources.GetObject("pictureBox2.Image");
-            pictureBox2.Location = new Point(-68, -2);
+            pictureBox2.Location = new Point(-3, 0);
             pictureBox2.Name = "pictureBox2";
             pictureBox2.Size = new Size(695, 267);
             pictureBox2.SizeMode = PictureBoxSizeMode.CenterImage;
@@ -79,7 +79,7 @@
             button2.FlatStyle = FlatStyle.Flat;
             button2.Image = (Image)resources.GetObject("button2.Image");
             button2.ImageAlign = ContentAlignment.MiddleLeft;
-            button2.Location = new Point(220, 113);
+            button2.Location = new Point(284, 116);
             button2.Name = "button2";
             button2.Size = new Size(127, 31);
             button2.TabIndex = 40;
@@ -92,7 +92,7 @@
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.Gray;
-            ClientSize = new Size(581, 271);
+            ClientSize = new Size(692, 266);
             Controls.Add(button2);
             Controls.Add(label7);
             Controls.Add(button1);
