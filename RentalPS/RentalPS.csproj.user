@@ -16,6 +16,9 @@
     <Compile Update="View\FR_Dashboard.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="View\FR_FotoRoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="View\FR_Login.cs">
       <SubType>Form</SubType>
     </Compile>

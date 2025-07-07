@@ -128,3 +128,4 @@ C:\Users\SEPTAASIKK\Documents\Pemrograman visual smt 6\RentalPIES\RentalPS\Renta
 C:\Users\SEPTAASIKK\Documents\Pemrograman visual smt 6\RentalPIES\RentalPS\RentalPS\obj\Debug\net8.0-windows\ref\RentalPS.dll
 C:\Users\SEPTAASIKK\Documents\Pemrograman visual smt 6\RentalPIES\RentalPS\RentalPS\bin\Debug\net8.0-windows\itextsharp.dll
 C:\Users\SEPTAASIKK\Documents\Pemrograman visual smt 6\RentalPIES\RentalPS\RentalPS\obj\Debug\net8.0-windows\RentalPS.View.FR_Splash.resources
+C:\Users\SEPTAASIKK\Documents\Pemrograman visual smt 6\RentalPIES\RentalPS\RentalPS\obj\Debug\net8.0-windows\RentalPS.View.FR_FotoRoom.resources
