@@ -8,12 +8,12 @@ Fitur Utama:
 
 Menu Login:
 Tampilan Login
-![Login](11.png)
+![Login](https://github.com/Spta22/Tugas-Pemrograman-Visual/blob/main/Form%20Login.jpeg)
 Form Login adalah halaman pertama yang ditampilkan setelah splash screen. Form ini berfungsi untuk melakukan otentikasi pengguna dengan memasukkan username dan password. Jika login berhasil, pengguna akan diarahkan ke dashboard utama. Form ini juga menyediakan tombol Buat Akun untuk pengguna baru yang belum memiliki akun, dengan tampilan latar belakang bertema PlayStation yang menarik dan modern.
 
 Menu Buat Akun:
 Tampilan Buat Akun
-![Buat Akun](12.png)
+![Buat Akun](https://github.com/Spta22/Tugas-Pemrograman-Visual/blob/main/Form%20Buat%Akun.jpeg)
 Form Buat Akun digunakan oleh pengguna baru untuk mendaftarkan diri agar dapat mengakses sistem. Pada form ini pengguna diminta mengisi tiga informasi utama: Username, Password, dan Nama. Setelah itu, pengguna dapat menekan tombol Daftar untuk menyimpan data ke database. Form ini juga dilengkapi tombol Kembali untuk kembali ke halaman login apabila pengguna sudah memiliki akun.
 
 Menu Dashboard:
