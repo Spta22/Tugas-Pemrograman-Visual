@@ -39,6 +39,7 @@ Form Daftar Harga menampilkan daftar biaya sewa berdasarkan durasi pemakaian per
 Menu Foto Room:
 Tampilan Foto Room
 ![Foto Room](https://github.com/Spta22/Tugas-Pemrograman-Visual/blob/main/Form%20Foto%20Room.jpeg)
+Form ini memungkinkan pelanggan melihat foto-foto ruangan dan meja PlayStation yang tersedia. Terdapat 6 ruangan yang bisa dilihat secara visual melalui tombol atau navigasi gambar. Fitur ini menambah kenyamanan pelanggan sebelum memilih meja untuk dipesan.
 
 Menu Kontak wa
 Tampilan Kontak Wa
