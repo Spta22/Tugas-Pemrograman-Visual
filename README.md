@@ -42,7 +42,7 @@ Tampilan Foto Room
 
 Menu Kontak wa
 Tampilan Kontak Wa
-![Kontak wa](https://github.com/Spta22/Tugas-Pemrograman-Visual/blob/main/Form%20Konta%20Wa.jpeg)
+![Kontak wa](https://github.com/Spta22/Tugas-Pemrograman-Visual/blob/main/Form%20KontaWa.jpeg)
 Form ini menyediakan tombol untuk langsung menghubungi admin rental via WhatsApp. Ketika tombol diklik, pengguna akan diarahkan ke halaman chat WhatsApp melalui browser, menggunakan nomor WA admin yang telah diatur sebelumnya. Fitur ini sangat membantu bagi pengguna yang membutuhkan bantuan atau ingin bertanya langsung tanpa harus menyimpan nomor terlebih dahulu. 
 
 
