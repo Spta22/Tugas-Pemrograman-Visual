@@ -36,7 +36,7 @@ Tampilan Daftar Harga
 ![Daftar Harga](https://github.com/Spta22/Tugas-Pemrograman-Visual/blob/main/Form%20Daftar%20Harga.jpeg)
 Form Daftar Harga menampilkan daftar biaya sewa berdasarkan durasi pemakaian per jam. Informasi ini penting sebagai referensi bagi pengguna saat ingin melakukan booking. Harga yang ditampilkan meliputi sewa dari 1 jam hingga 5 jam, dengan tampilan tombol-tombol harga yang besar dan jelas. Form ini memperkuat transparansi informasi biaya kepada pelanggan.
 
-Menu Foto Room:
+Menu Foto Room
 Tampilan Foto Room
 ![Foto Room](https://github.com/Spta22/Tugas-Pemrograman-Visual/blob/main/Form%20Foto%20Room.jpeg)
 Form ini memungkinkan pelanggan melihat foto-foto ruangan dan meja PlayStation yang tersedia. Terdapat 6 ruangan yang bisa dilihat secara visual melalui tombol atau navigasi gambar. Fitur ini menambah kenyamanan pelanggan sebelum memilih meja untuk dipesan.
